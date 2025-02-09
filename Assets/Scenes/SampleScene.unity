@@ -679,6 +679,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3489ce9d3b9e2d742831f11c69b04948, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  hp: 0
+  sp: 0
   movementOrientation: {fileID: 1269470727}
   characterMesh: {fileID: 1718275903}
   speed: 10
